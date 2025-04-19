@@ -10,4 +10,4 @@ Due to file size limitations, the data for this data is not stored in this repos
 For the models to run, users will either have to use the parameter inputs to load their own data, or to use the data provided in the data linked above. The essential data inputs include a study area, trail tread area, digital surface model, and orthomosaic imagery for the trail you are surveying.
 
 ## Flight Plans
-Flight plans are available upon request via drone deploy, although flight parameters are noted in the methodology portion of the thesis linked above.
+Flight plans are available upon request via drone deploy, although flight parameters are noted in the methodology portion of the thesis linked above. Please reach out to the author at john.lesko@gwmail.gwu.edu
