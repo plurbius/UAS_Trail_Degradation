@@ -4,6 +4,7 @@ This repository houses the data and workflow for the drone collected trail degra
 
 ## Models
 In the Models repository you will find the python scripts used to measure each trail degradation characteristic (width, incision, grade, and rugosity), and the eventual trail degradation models. The background behind these analyses are explained in the methodology section of the thesis linked above.
+
 ![image](https://github.com/user-attachments/assets/c401b73b-a436-4c05-baed-8260400b59ee)
 
 
